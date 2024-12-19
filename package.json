@@ -1,0 +1,12 @@
+{
+  "name": "google-authenticator-to-raycast",
+  "dependencies": {
+    "@paulmillr/qr": "^0.3.0",
+    "base64-js": "^1.5.1",
+    "jimp": "^1.6.0",
+    "protobufjs": "^7.4.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
